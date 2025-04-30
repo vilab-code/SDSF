@@ -1,6 +1,6 @@
 # SDSF
 ## 📚Paper 
-### Fault Diagnosis Under Unseen Conditions via Suppressing Domain-Sensitive Feature ###
+#### Fault Diagnosis Under Unseen Conditions via Suppressing Domain-Sensitive Feature ####
 ## ⭐Code
 The source code will be publicly released after paper accepted.
 ## 📦Dataset
