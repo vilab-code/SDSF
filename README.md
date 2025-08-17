@@ -29,6 +29,7 @@ Our experiments utilize four public datasets: Paderborn, MFPT, CWRU, and JNU.
 
 ``` T8 ```
 <div style="text-align:center"><img src='visualization/T8.png' width=600></div>
+
 ## Confusion matrix results
 ``` T1 ```
 <div style="text-align:center"><img src='Confusion matrices/T1.png' width=600></div>
