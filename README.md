@@ -5,3 +5,7 @@
 The source code will be publicly released after paper accepted.
 ## 📦Dataset
 Our experiments utilize four public datasets: Paderborn, MFPT, CWRU, and JNU.
+## Visualization results 
+
+## Confusion matrix results
+
