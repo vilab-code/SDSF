@@ -7,28 +7,28 @@ The source code will be publicly released after paper accepted.
 Our experiments utilize four public datasets: Paderborn, MFPT, CWRU, and JNU.
 ## Visualization results 
 ``` T1 ```
-<div style="text-align:center"><img src='visualization/T1.png' width=600></div>
+<div style="text-align:center"><img src='visualization/T1.jpg' width=600></div>
 
 ``` T2 ```
-<div style="text-align:center"><img src='visualization/T2.png' width=600></div>
+<div style="text-align:center"><img src='visualization/T2.jpg' width=600></div>
 
 ``` T3 ```
-<div style="text-align:center"><img src='visualization/T3.png' width=600></div>
+<div style="text-align:center"><img src='visualization/T3.jpg' width=600></div>
 
 ``` T4 ```
-<div style="text-align:center"><img src='visualization/T4.png' width=600></div>
+<div style="text-align:center"><img src='visualization/T4.jpg' width=600></div>
 
 ``` T5 ```
-<div style="text-align:center"><img src='visualization/T5.png' width=600></div>
+<div style="text-align:center"><img src='visualization/T5.jpg' width=600></div>
 
 ``` T6 ```
-<div style="text-align:center"><img src='visualization/T6.png' width=600></div>
+<div style="text-align:center"><img src='visualization/T6.jpg' width=600></div>
 
 ``` T7 ```
-<div style="text-align:center"><img src='visualization/T7.png' width=600></div>
+<div style="text-align:center"><img src='visualization/T7.jpg' width=600></div>
 
 ``` T8 ```
-<div style="text-align:center"><img src='visualization/T8.png' width=600></div>
+<div style="text-align:center"><img src='visualization/T8.jpg' width=600></div>
 
 ## Confusion matrix results
 ``` T1 ```
